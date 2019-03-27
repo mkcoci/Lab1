@@ -15,131 +15,130 @@
    15  ls
    16  git add .
    17  git commit -m "modify l1.txt"
-   18  $ git config --global user.name get config --global user.name "angelaarsova133037"
-   19  git config --globar user.name "stojanchekjirovski133122"
-   20  pwd
+   18  git config --globar user.name "stojanchekjirovski133122"
+   19  pwd
+   20  cd ..
    21  cd ..
    22  cd ..
-   23  cd ..
-   24  cd d
-   25  pwd
-   26  ls
-   27  cd Finki
-   28  l
-   29  ls
-   30  cd Softversko Inzenerstvo
-   31  cd Softversko
-   32  cd Softversko Inzenerstvo
+   23  cd d
+   24  pwd
+   25  ls
+   26  cd Finki
+   27  l
+   28  ls
+   29  cd Softversko Inzenerstvo
+   30  cd Softversko
+   31  cd Softversko Inzenerstvo
+   32  cd ..
    33  cd ..
-   34  cd ..
-   35  cd d
-   36  cd finki
-   37  cd si
-   38  ls
-   39  cd lab
-   40  ls
-   41  mkdir lab1
-   42  cd
-   43  ls
-   44  pwd
+   34  cd d
+   35  cd finki
+   36  cd si
+   37  ls
+   38  cd lab
+   39  ls
+   40  mkdir lab1
+   41  cd
+   42  ls
+   43  pwd
+   44  cd ..
    45  cd ..
    46  cd ..
-   47  cd ..
-   48  cd d
-   49  cd finki
-   50  cd si
-   51  cd lab
-   52  ls
-   53  pwd
-   54  cd 
-   55  cd d/finki/si/lab
-   56  cd 
-   57  cd d
-   58  pwd
+   47  cd d
+   48  cd finki
+   49  cd si
+   50  cd lab
+   51  ls
+   52  pwd
+   53  cd 
+   54  cd d/finki/si/lab
+   55  cd 
+   56  cd d
+   57  pwd
+   58  cd ..
    59  cd ..
    60  cd ..
-   61  cd ..
-   62  cd d
-   63  cd finki
-   64  cd si
-   65  cd lab
-   66  cd lab1
-   67  get init
-   68  git init
-   69  notepad l1.txt
-   70  ls
-   71  git add .
-   72  git commit -m "Initial commit"
-   73  git config --global user.name "stojanche kjirovski 133122"
-   74  git commit -m "Initial commit"
-   75  git config --global user.name "Stojanche"
-   76  git commit -m "Initial commit"
-   77  git config --globar user.email "stojance_kirovski@hotmail.com"
-   78  git commit -m "Initial commit"
-   79  git add .
-   80  git commit -m "Initial commit"
-   81  git config --global user.name "stojanchekjirovski133122"
-   82  pwd
-   83  mkdir lab1
-   84  ls
-   85  cd lab1
-   86  ls
-   87  git add .
-   88  git init 
-   89  git add .
-   90  git commit -m "Initial commit"
-   91  git config --global user.name "stojanchekjirovski133122"
-   92  mkdir lab1
-   93  cd
-   94  git init
-   95  cd lab1
-   96  notepad l1.txt
-   97  git add .
-   98  git commit -m "Initial commit"
-   99  notepad l1.txt
-  100  cd ..
-  101  pwd
-  102  cd .. 
-  103  cd ..
-  104  cd d
-  105  cd finki
-  106  cd si
-  107  cd lab
-  108  ls
-  109  cd lab1
-  110  ls
-  111  notepad l1.txt
-  112  git init
-  113  git add l1.txt
-  114  git commit -m "Initial commit"
-  115  git config --global user.email "stojanche.kjirovski@gmail.com"
-  116  git commit -m "Initial commit"
-  117  git add l1.txt
-  118  notepad l1.txt
-  119  git add l1.txt
-  120  git commit -m "modify l1.txt"
-  121  git remote add origin https://github.com/mkcoci/Lab1.git
-  122  git push -f origin master
-  123  notepad l1.txt
-  124  git checkout -- l1.txt
-  125  git branch logging
-  126  git checkout -- l1.txt
-  127  git branch logging
-  128  git checkout logging
+   61  cd d
+   62  cd finki
+   63  cd si
+   64  cd lab
+   65  cd lab1
+   66  get init
+   67  git init
+   68  notepad l1.txt
+   69  ls
+   70  git add .
+   71  git commit -m "Initial commit"
+   72  git config --global user.name "stojanche kjirovski 133122"
+   73  git commit -m "Initial commit"
+   74  git config --global user.name "Stojanche"
+   75  git commit -m "Initial commit"
+   76  git config --globar user.email "stojance_kirovski@hotmail.com"
+   77  git commit -m "Initial commit"
+   78  git add .
+   79  git commit -m "Initial commit"
+   80  git config --global user.name "stojanchekjirovski133122"
+   81  pwd
+   82  mkdir lab1
+   83  ls
+   84  cd lab1
+   85  ls
+   86  git add .
+   87  git init 
+   88  git add .
+   89  git commit -m "Initial commit"
+   90  git config --global user.name "stojanchekjirovski133122"
+   91  mkdir lab1
+   92  cd
+   93  git init
+   94  cd lab1
+   95  notepad l1.txt
+   96  git add .
+   97  git commit -m "Initial commit"
+   98  notepad l1.txt
+   99  cd ..
+  100  pwd
+  101  cd .. 
+  102  cd ..
+  103  cd d
+  104  cd finki
+  105  cd si
+  106  cd lab
+  107  ls
+  108  cd lab1
+  109  ls
+  110  notepad l1.txt
+  111  git init
+  112  git add l1.txt
+  113  git commit -m "Initial commit"
+  114  git config --global user.email "stojanche.kjirovski@gmail.com"
+  115  git commit -m "Initial commit"
+  116  git add l1.txt
+  117  notepad l1.txt
+  118  git add l1.txt
+  119  git commit -m "modify l1.txt"
+  120  git remote add origin https://github.com/mkcoci/Lab1.git
+  121  git push -f origin master
+  122  notepad l1.txt
+  123  git checkout -- l1.txt
+  124  git branch logging
+  125  git checkout -- l1.txt
+  126  git branch logging
+  127  git checkout logging
+  128  notepad log.txt
   129  notepad log.txt
-  130  notepad log.txt
-  131  git add log.txt
-  132  git commit -m "add log.txt"
-  133  git push origin logging
-  134  git checkout master
-  135  git merge logging
-  136  git branch logging
-  137  git checkout logging
-  138  git merge master
-  139  git push origin logging:master
-  140  git branch -b allcomands
-  141  git branch allcomands
-  142  git branch
-  143  git checkout allcomands
-  144  histry > commands.txt
-  145  history > commands.txt
+  130  git add log.txt
+  131  git commit -m "add log.txt"
+  132  git push origin logging
+  133  git checkout master
+  134  git merge logging
+  135  git branch logging
+  136  git checkout logging
+  137  git merge master
+  138  git push origin logging:master
+  139  git branch -b allcomands
+  140  git branch allcomands
+  141  git branch
+  142  git checkout allcomands
+  143  histry > commands.txt
+  144  history > commands.txt
